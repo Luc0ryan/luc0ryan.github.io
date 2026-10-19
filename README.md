@@ -38,5 +38,5 @@ npm run deploy    # builds and publishes to GitHub Pages via gh-pages
 ## Contact
 
 - Email: lucryan@gmail.com
-- LinkedIn: [linkedin.com/in/lucasryan](https://linkedin.com/in/lucasryan)
+- LinkedIn: [linkedin.com/in/lucas-k-ryan](https://www.linkedin.com/in/lucas-k-ryan/)
 - GitHub: [github.com/Luc0ryan](https://github.com/Luc0ryan)

@@ -20,7 +20,7 @@ export default function About() {
           </div>
 
           <div className="group flex flex-col items-center">
-            <a href="https://linkedin.com/in/lucasryan" target="_blank">
+            <a href="https://www.linkedin.com/in/lucas-k-ryan/" target="_blank">
               <User className="h-8 w-8 stroke-[1.5px]" />
             </a>
             <div className="origin-bottom opacity-0 group-hover:opacity-100 transition-opacity">
@@ -72,14 +72,14 @@ export default function About() {
 
           <div className="mt-2 flex md:hidden flex-wrap justify-start gap-4 text-xs text-indigo-500">
             <a
-              href="/resume.pdf"
+              href="pdfs/resumeLucasRyan.pdf"
               className="underline underline-offset-2 hover:text-neutral-700"
             >
               Resume
             </a>
             <span>•</span>
             <a
-              href="https://github.com/lucasryan"
+              href="https://github.com/Luc0ryan"
               target="_blank"
               className="underline underline-offset-2 hover:text-neutral-700"
             >
@@ -87,7 +87,7 @@ export default function About() {
             </a>
             <span>•</span>
             <a
-              href="https://linkedin.com/in/lucasryan"
+              href="https://www.linkedin.com/in/lucas-k-ryan/"
               target="_blank"
               className="underline underline-offset-2 hover:text-neutral-700"
             >
